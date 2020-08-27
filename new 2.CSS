@@ -1,0 +1,36 @@
+h1, h2{
+	color:red;
+	font-size:22px;
+	font-family:arial;
+
+
+
+}
+p { 
+	font-size:150%;
+	color:green;
+	
+}
+.bg-color{
+Background-color:Black;
+
+
+}
+p.Program{
+color:blue;
+Background-color:Gray;
+text-align:Center;
+
+}
+
+p.Program2{
+	text-align:right;
+	
+}
+a {
+	text-decoration:none;
+}
+
+p.Border{
+	Border:6px solid purple;
+}
