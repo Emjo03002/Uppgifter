@@ -1,0 +1,44 @@
+h1, h2{
+	color:yellowgreen;
+	font-size:22px;
+	font-family:arial;
+
+
+
+}
+p { 
+	font-size:150%;
+	color:green;
+	
+}
+.bg-color{
+Background-color:black;
+
+
+}
+p.Program{
+font-size: 150%;
+color:black;
+Background-color:blue;
+text-align:Center;
+
+}
+
+p.Program2{
+	text-align:right;
+	
+}
+a {
+	text-decoration:none;
+}
+
+p.Border{
+	Border:6px solid blue;
+}
+.container{
+	display:grid;
+	grid-template-columns: 500px 500px;
+	grid-template-rows: auto;
+	
+	
+}
